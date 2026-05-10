@@ -21,7 +21,6 @@ Affected Jmeter jars:
     * json-path v2.7.0 will be replaced with v2.9.0
     * dnsjava v2.1.9 will be replaced with v3.6.1
 
-Also jmeter plugins manager will be updated to v1.10 to address CVEs and cmdrunner will be updated to v2.3 to accomodate with plugins manager.
 """
 
 # these jars should be replaced with newer version in order to fix some vulnerabilities
