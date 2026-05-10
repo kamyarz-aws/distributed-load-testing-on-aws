@@ -1,4 +1,4 @@
-# Distributed Load Testing on AWS
+# Distributed Load Testing on AWS - Owned by kamyarz
 
 The Distributed Load Testing Solution leverages managed, highly available and highly scalable AWS services to effortlessly create and simulate thousands of connected users generating a selected amount of transactions per second, originating from up to 5 simultaneous AWS regions. As a result, developers can understand the behavior of their applications at scale and at load to identify any bottleneck problems before they deploy to Production.
 
